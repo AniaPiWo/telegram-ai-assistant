@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
     "groq-sdk": "^0.7.0",
     "telegraf": "^4.4.0"
   }
